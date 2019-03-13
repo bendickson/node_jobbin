@@ -1,7 +1,7 @@
 {
-  "name": "jobby",
+  "name": "jobbin",
   "version": "1.0.0",
-  "description": "A job listing web app",
+  "description": "A simple search job listing web app",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
